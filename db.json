@@ -1,0 +1,35 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "nom": "ALL QUIET ON THE WESTERN FRONT",
+      "prix": 23.44,
+      "categorie": "War, History, Drama, Action",
+      "description": "All Quiet on the Western Front tells the gripping story of a young German soldier on the Western Front of World War I. Paul and his comrades experience first-hand how the initial euphoria of war turns into desperation and fear as they fight for their lives, and each other, in the trenches. The film from director Edward Berger is based on the world renowned bestseller of the same name by Erich Maria Remarque."
+    },
+    {
+      "id": 2,
+      "nom": "War, History, Drama, Action",
+      "prix": "12.33",
+      "categorie": "Sci-fi, Adventure, Action, Fantasy",
+      "description": "Set more than a decade after the events of the first film, 'Avatar: The Way of Water' begins to tell the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+    },
+    {
+      "id": 3,
+      "nom": "INSIDE",
+      "description": "INSIDE tells the story of Nemo, an art thief trapped in a New York penthouse after his heist doesn't go as planned. Locked inside with nothing but priceless works of art, he must use all his cunning and invention to survive.",
+      "prix": 5.5,
+      "categorie": "Drama"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
